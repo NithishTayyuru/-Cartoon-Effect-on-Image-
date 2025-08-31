@@ -1,1 +1,1 @@
-# -Cartoon-Effect-on-Image-
+# Cartoon-Effect-on-Image
